@@ -1,0 +1,95 @@
+
+
+.ant-layout{
+    height: 100vh;
+}
+
+.ant-layout-header {
+    background-color: #ee0033;
+    padding: 0;
+}
+
+
+.custom-radio input[type="radio"]:checked + span {
+    border-color: #ee0033;
+    background-color: #ee0033;
+}
+
+.custom-input input:focus {
+    border-color: #ee0033;
+}
+
+
+
+
+.ant-layout-sider-children {
+    background-color: #ffffff;
+}
+
+.ant-menu-item{
+    color: #ee0033;
+}
+.ant-menu-item.ant-menu-item-selected{
+    color: #ffffff;
+    background-color: #ee0033;
+}
+.ant-menu-item-active{
+    color: #ee0033 !important;
+}
+.ant-menu-item-active.ant-menu-item-selected{
+    color: #ffffff !important;
+}
+
+.ant-menu-submenu{
+    color: #ee0033;
+}
+
+
+.ant-menu-submenu-selected .ant-menu-submenu-title {
+    color: #ee0033 !important;
+}
+a{
+    text-decoration: none;
+}
+
+/*content*/
+.db-content{
+    padding: 2%;
+    background-color: #f6fafc;
+    height: 100vh;
+}
+
+
+.customSearchInput .ant-input {
+    width: 60%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.customSearchInput .ant-btn {
+    width: 40%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.main-btn{
+    color: #ffffff;
+    background-color: #ee0033;
+}
+
+.export-btn{
+    color: #ffffff;
+    background-color: #1c6b40;
+    border: solid 2px #1c6b40;
+}
+
+.export-btn:hover{
+    color: #1c6b40;
+    background-color: #ffffff;
+    border-color: #1c6b40;
+}
+
+
+
+
+
+
